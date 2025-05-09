@@ -1,6 +1,6 @@
 # ĮVADAS IR PAGRINDŲ SUVOKIMAS
 
-[Paskaitos medžiaga](https://gamma.app/docs/1-paskaita-4ub63xuiaogo31x) 
+[Paskaitos medžiaga](https://gamma.app/docs/1-paskaita-3g1y53zrrl4rew0) 
 
 ## Socialinių tinklų administratoriaus vaidmuo – kas tai per profesija?
 
