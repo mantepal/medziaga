@@ -94,62 +94,6 @@ Aiškiai įsivardijus laikotarpį, galima tinkamai suplanuoti turinio dažnumą,
 
 > **Svarbu**: strategija nėra neliečiama – ji koreguojama remiantis duomenimis ir pokyčiais rinkoje.
 
-## Turinys kaip strategijos įrankis: edukacija, pardavimai, įvaizdis 
-
-Turinys – tai **pagrindinė priemonė,** per kurią strategija tampa matoma auditorijai. **Kiekvienas įrašas atlieka tam tikrą funkciją**: edukuoja, kuria pasitikėjimą, padeda parduoti ar stiprina įvaizdį.
-
-### Turinys pagal funkciją: strateginiai blokai
-
-**Edukacinis turinys**  
-**Pagrindinis tikslas** – suteikti vertės, padėti auditorijai kažką išmokti ar suprasti.
--   Turinys atsako į klausimus, sprendžia problemas.
--   Padeda formuoti eksperto įvaizdį.
--   Skatina pasitikėjimą ir įsitraukimą (komentarai, dalijimasis).
-	-   **Pavyzdžiai**: „Kaip pasirinkti tinkamą vitaminą D?“, „5 patarimai, kaip sustiprinti plaukų struktūrą“.
-    
-**Pardaviminis turinys  
-Pagrindinis tikslas** – konversija: registracija, pirkimas, susisiekimas.
--   Akcentuojama nauda, ribotumas, socialinis įrodymas.
--   Dažnai pasitelkiami CTA (Call to Action): „Apsilankyk el. parduotuvėje“, „Registruokis šiandien“.
--   Vizualiai aiškus, struktūruotas, dažnai remiasi įrodymais. 
-	- **Pavyzdžiai**: Gali būti paslaugos pristatymas, nuolaidų pasiūlymai: „Iki sekmadienio –20 %“, laike apriboti pasiūlymai: „Registruokis į naują kursą“, „Tik 3 vietos liko!“
-    
-**Įvaizdinis turinys  
-Pagrindinis tikslas** – stiprinti prekės ženklo identitetą, vertybes, emocinį ryšį.
- -   Kuriamas ryšys su auditorija per autentiškumą, vertybes, emocijas.
--   Padeda išsiskirti iš konkurentų, formuoja įspūdį apie prekės ženklą.
-	-   **Pavyzdžiai**: užkulisiai, įkvepiančios istorijos, darbuotojų ar klientų pristatymai, vertybių parodymas.
-
-**Pramoginis turinys  
-Pagrindinis tikslas** – sukurti teigiamą emociją, išlaikyti auditorijos dėmesį ir skatinti dalinimąsi.
--   Dažnai tai lengvo tono, šmaikštūs, trendiniai ar šiuo metu aktualūs humoristiniai įrašai.
-	-   **Pavyzdžiai**: „5 ženklai, kad tavo augintinis – tikras šeimos vadas“, meme formato vizualai, POV situacijos.
-   
-**Pasitikėjimo turinys  
- Pagrindinis tikslas** – kurti socialinį įrodymą ir stiprinti verslo patikimumą.
--   Renkami klientų atsiliepimai, pasidalinama kliento istorija, rodoma reali patirtis, pasakojomos istorijos apie verslo sunkumus, sprendimo būdus, pasidalinimas ekspertų nuomonėmis.
-	 -   **Pavyzdžiai**: „Ką sako mūsų klientai?“, prieš / po rezultatai, klientų istorijos, ekspertų įžvalgos.
-    
-**Įkvėpimo turinys  
-Pagrindinis tikslas** – motyvuoti, emociniu lygmeniu įkvėpti auditoriją veikti ar mąstyti kitaip.
--   Naudojamos citatos, asmeninės ar klientų transformacijos istorijos.
-	-   **Pavyzdžiai**: „Prieš 3 metus pradėjau be jokio plano. Šiandien – pilna studija ir komanda“, „Maži žingsniai keičia viską“.
-    
-
-### Auditorijos ryšys su prekės ženklu:
-
-Prieš sudarant komunikacijos planą svarbu įvertinti, kokiai auditorijai yra skirtas kiekvienas turinys. Socialinių tinklų komunikacijoje auditoriją galima skirstyti į **tris pagrindinius lygius pagal jų ryšį** su prekės ženklu:
-
-#### Auditorijos tipai:
-
--   **Šalta auditorija** – žmonės, kurie jūsų nepažįsta. Pirmas kontaktas su prekės ženklu. Tikslas – supažindinti, sudominti, sukelti smalsumą.
-	-   **Kaip bendrauti**: paprasta, aiški žinutė, informatyvus ar įkvepiantis turinys, mažiau pardavimo.
-
--   **Šilta auditorija** – seka, reaguoja į turinį, bet dar nėra pirkę. Jau pažįsta, bet dar nepriėmė sprendimo.
-	- **Kaip bendrauti**: parodyti vertę, naudą, atsakyti į dažnus klausimus, stiprinti pasitikėjimą.
-   
--   **Karšta auditorija** – jau pirkę klientai, lojalūs sekėjai. Čia kuriamas gilus ryšys.
-	- **Kaip bendrauti**: priminti apie vertę, pasiūlyti papildomas paslaugas ar produktus, įtraukti į bendruomenę.
 
 # Praktinė dalis
 
